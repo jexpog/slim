@@ -1,0 +1,24 @@
+
+
+body {
+    background-color: #9aceed;
+}
+
+
+#imag {
+    width: 100%;
+}
+
+.form-edit {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+#delete_form {
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+#button_del {
+    margin-top: 35px;
+}
